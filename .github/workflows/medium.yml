@@ -1,0 +1,21 @@
+name: Update latest Medium articles
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://medium.com/feed/@louis_10840"
+          max_post_count: 5
+          commit_message: "doc(content): update latest Medium articles"
