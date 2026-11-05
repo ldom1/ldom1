@@ -11,13 +11,9 @@
 
 ---
 
-## About me
-
 Data / DevOps / HPC orchestration, optimizing energy and industrial systems on sovereign infrastructure.
 
 Building tools for agentic development. Running a self-hosted stack.
-
-## Tech stack
 
 <table>
   <tr>
@@ -69,8 +65,6 @@ Building tools for agentic development. Running a self-hosted stack.
   </tr>
 </table>
 
-**Tutorials:** [dagster_1o1](https://github.com/ldom1/dagster_1o1) · [prefect_1o1](https://github.com/ldom1/prefect_1o1) · [slurm_1o1](https://github.com/ldom1/slurm_1o1) · [dom-scrapping-tutorial](https://github.com/ldom1/dom-scrapping-tutorial)
-
 ## Latest articles
 
 <!-- BLOG-POST-LIST:START -->
@@ -83,16 +77,3 @@ Building tools for agentic development. Running a self-hosted stack.
 
 [All articles on Medium](https://medium.com/@louis_10840)
 
-## Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ldom1&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldom1/ldom1/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldom1/ldom1/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ldom1/ldom1/output/snake.svg" />
-</picture>
-
-</div>
