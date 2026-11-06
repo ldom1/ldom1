@@ -68,11 +68,11 @@ Building tools for agentic development. Running a self-hosted stack.
 ## Latest articles
 
 <!-- BLOG-POST-LIST:START -->
-- [From a company name to a precise email, tailored to your prospect with Claude and Outlook…](https://medium.com/@louis_10840/from-a-company-name-to-a-precise-email-tailored-to-your-prospect-with-claude-and-outlook-174328406d34)
-- [WSL won’t start? Rescue your distro without losing your ext4.vhdx](https://medium.com/@louis_10840/wsl-wont-start-rescue-your-distro-without-losing-your-ext4-vhdx-5bf60bea1b3a)
-- [I stopped using OpenClaw. Now I rent the loop and own the memory.](https://medium.com/@louis_10840/i-stopped-using-openclaw-now-i-rent-the-loop-and-own-the-memory-529054d042cb)
-- [Orchestrate Workflows with Airflow: Complete Implementation](https://medium.com/@louis_10840/orchestrate-workflows-with-airflow-complete-implementation-49c6f2638efd)
-- [Orchestrate Workflows with Airflow: Overview](https://medium.com/@louis_10840/orchestrate-workflows-with-airflow-overview-310117f51ff0)
+- [From a company name to a precise email, tailored to your prospect with Claude and Outlook…](https://medium.com/@louis_10840/from-a-company-name-to-a-precise-email-tailored-to-your-prospect-with-claude-and-outlook-174328406d34?source=rss-525216d415bf------2)
+- [WSL won’t start? Rescue your distro without losing your ext4.vhdx](https://medium.com/@louis_10840/wsl-wont-start-rescue-your-distro-without-losing-your-ext4-vhdx-5bf60bea1b3a?source=rss-525216d415bf------2)
+- [I stopped using OpenClaw. Now I rent the loop and own the memory.](https://medium.com/@louis_10840/i-stopped-using-openclaw-now-i-rent-the-loop-and-own-the-memory-529054d042cb?source=rss-525216d415bf------2)
+- [Orchestrate Workflows with Airflow: Complete Implementation](https://medium.com/@louis_10840/orchestrate-workflows-with-airflow-complete-implementation-49c6f2638efd?source=rss-525216d415bf------2)
+- [Orchestrate Workflows with Airflow: Overview](https://medium.com/@louis_10840/orchestrate-workflows-with-airflow-overview-310117f51ff0?source=rss-525216d415bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 [All articles on Medium](https://medium.com/@louis_10840)
